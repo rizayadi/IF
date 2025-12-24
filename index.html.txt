@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IF Mastery - Bakar Lemak Tanpa Ribet</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        body { background-color: #020617; color: #f8fafc; font-family: 'Inter', sans-serif; scroll-behavior: smooth; }
+        .gradient-text { background: linear-gradient(90deg, #10b981, #3b82f6); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        .card-glass { background: rgba(30, 41, 59, 0.4); border: 1px solid rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); }
+        .promo-badge { background: linear-gradient(135deg, #f59e0b, #d97706); }
+        .bonus-box { border: 2px dashed #10b981; background: rgba(16, 185, 129, 0.05); }
+    </style>
+</head>
+<body class="antialiased">
+
+    <section class="relative py-16 px-6 overflow-hidden">
+        <div class="max-w-4xl mx-auto text-center relative z-10">
+            <span class="inline-block py-1 px-4 rounded-full bg-emerald-500/10 text-emerald-400 text-xs font-bold uppercase tracking-widest mb-6 border border-emerald-500/20">
+                Ebook Panduan Lengkap + Bonus Webinar
+            </span>
+            <h1 class="text-4xl md:text-6xl font-black mb-6 leading-tight">
+                Intermittent Fasting <span class="gradient-text">Mastery</span>
+            </h1>
+            <p class="text-lg md:text-xl text-slate-400 mb-8 max-w-2xl mx-auto">
+                Mau belajar IF dengan cara yang simpel, anti ribet, dan tetap bisa makan enak? eBook ini ditulis dengan bahasa yang ringan dan langsung bisa dipraktikkan. ✨
+            </p>
+            <div class="flex flex-col sm:flex-row justify-center gap-4">
+                <a href="#daftar-isi" class="bg-emerald-600 hover:bg-emerald-500 text-white font-bold py-4 px-8 rounded-xl transition-all shadow-lg shadow-emerald-600/20">
+                    Lihat Materi eBook
+                </a>
+                <a href="#beli" class="bg-white/10 hover:bg-white/20 text-white font-bold py-4 px-8 rounded-xl transition-all border border-white/10">
+                    Beli Sekarang - Rp 29rb
+                </a>
+            </div>
+        </div>
+        <div class="absolute top-0 left-1/2 -translate-x-1/2 w-96 h-96 bg-emerald-600/20 blur-[120px] rounded-full -z-0"></div>
+    </section>
+
+    <section class="py-12 px-6">
+        <div class="max-w-5xl mx-auto">
+            <div class="grid md:grid-cols-3 gap-6">
+                <div class="card-glass p-6 rounded-2xl border-t-4 border-t-emerald-500">
+                    <i class="fas fa-fire text-emerald-400 text-2xl mb-4"></i>
+                    <h3 class="font-bold text-lg mb-2">Fat Loss Maksimal</h3>
+                    <p class="text-sm text-slate-400">Menghancurkan lemak membandel di area perut dan pinggang secara alami tanpa obat-obatan.</p>
+                </div>
+                <div class="card-glass p-6 rounded-2xl border-t-4 border-t-blue-500">
+                    <i class="fas fa-bolt text-blue-400 text-2xl mb-4"></i>
+                    <h3 class="font-bold text-lg mb-2">Energi Melimpah</h3>
+                    <p class="text-sm text-slate-400">Ucapkan selamat tinggal pada "ngantuk sesudah makan" dan lemas di tengah hari.</p>
+                </div>
+                <div class="card-glass p-6 rounded-2xl border-t-4 border-t-purple-500">
+                    <i class="fas fa-heartbeat text-purple-400 text-2xl mb-4"></i>
+                    <h3 class="font-bold text-lg mb-2">Hormon Seimbang</h3>
+                    <p class="text-sm text-slate-400">Memperbaiki sensitivitas insulin dan kesehatan metabolisme jangka panjang.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="py-12 px-6">
+        <div class="max-w-3xl mx-auto text-center">
+            <h2 class="text-2xl font-bold mb-6">Mau Coba IF Tapi Takut Salah Langkah?</h2>
+            <p class="text-slate-400 leading-relaxed">
+                Sudah banyak baca artikel di internet tapi malah makin bingung? Informasi yang sepotong-sepotong justru bisa berbahaya. eBook ini adalah <span class="text-emerald-400 font-semibold">blueprint lengkap</span> yang merangkum semua yang perlu kamu tahu dalam satu genggaman.
+            </p>
+        </div>
+    </section>
+
+    <section id="daftar-isi" class="py-16 px-6 bg-slate-900/30">
+        <div class="max-w-5xl mx-auto">
+            <h2 class="text-3xl font-bold text-center mb-12 uppercase tracking-tight">Apa Saja Isi eBook Ini?</h2>
+            <div class="grid md:grid-cols-2 gap-4">
+                <div class="card-glass p-4 rounded-xl flex items-center gap-4">
+                    <div class="w-8 h-8 rounded-full bg-emerald-500/20 flex items-center justify-center text-emerald-400 font-bold shrink-0 text-xs">1</div>
+                    <p class="text-sm font-medium">Mindset Dasar: Kenapa IF Bukan Sekadar Pola Makan</p>
+                </div>
+                <div class="card-glass p-4 rounded-xl flex items-center gap-4">
+                    <div class="w-8 h-8 rounded-full bg-emerald-500/20 flex items-center justify-center text-emerald-400 font-bold shrink-0 text-xs">2</div>
+                    <p class="text-sm font-medium">Cara Kerja Intermittent Fasting Secara Mendalam</p>
+                </div>
+                <div class="card-glass p-4 rounded-xl flex items-center gap-4">
+                    <div class="w-8 h-8 rounded-full bg-emerald-500/20 flex items-center justify-center text-emerald-400 font-bold shrink-0 text-xs">3</div>
+                    <p class="text-sm font-medium">Pembakaran Lemak: Kapan Sebenarnya Terjadi?</p>
+                </div>
+                <div class="card-glass p-4 rounded-xl flex items-center gap-4">
+                    <div class="w-8 h-8 rounded-full bg-emerald-500/20 flex items-center justify-center text-emerald-400 font-bold shrink-0 text-xs">4</div>
+                    <p class="text-sm font-medium">Turun Berat Badan Tanpa Kehilangan Otot</p>
+                </div>
+                <div class="card-glass p-4 rounded-xl flex items-center gap-4">
+                    <div class="w-8 h-8 rounded-full bg-emerald-500/20 flex items-center justify-center text-emerald-400 font-bold shrink-0 text-xs">5</div>
+                    <p class="text-sm font-medium">Cara Menentukan Jam Puasa yang Cocok Buatmu</p>
+                </div>
+                <div class="card-glass p-4 rounded-xl flex items-center gap-4">
+                    <div class="w-8 h-8 rounded-full bg-emerald-500/20 flex items-center justify-center text-emerald-400 font-bold shrink-0 text-xs">6</div>
+                    <p class="text-sm font-medium">Kesalahan Umum Saat IF & Cara Menghindarinya</p>
+                </div>
+                <div class="card-glass p-4 rounded-xl flex items-center gap-4">
+                    <div class="w-8 h-8 rounded-full bg-emerald-500/20 flex items-center justify-center text-emerald-400 font-bold shrink-0 text-xs">7</div>
+                    <p class="text-sm font-medium">Apa yang Boleh & Nggak Boleh Dimakan Saat Puasa</p>
+                </div>
+                <div class="card-glass p-4 rounded-xl flex items-center gap-4">
+                    <div class="w-8 h-8 rounded-full bg-emerald-500/20 flex items-center justify-center text-emerald-400 font-bold shrink-0 text-xs">8</div>
+                    <p class="text-sm font-medium">Panduan Olahraga Saat Menjalani Puasa IF</p>
+                </div>
+                <div class="card-glass p-4 rounded-xl flex items-center gap-4">
+                    <div class="w-8 h-8 rounded-full bg-emerald-500/20 flex items-center justify-center text-emerald-400 font-bold shrink-0 text-xs">9</div>
+                    <p class="text-sm font-medium">Kapan Waktu Terbaik Olahraga Saat IF?</p>
+                </div>
+                <div class="card-glass p-4 rounded-xl flex items-center gap-4">
+                    <div class="w-8 h-8 rounded-full bg-emerald-500/20 flex items-center justify-center text-emerald-400 font-bold shrink-0 text-xs">10</div>
+                    <p class="text-sm font-medium">Latihan Beban Saat Puasa yang Paling Efektif</p>
+                </div>
+                <div class="card-glass p-4 rounded-xl flex items-center gap-4">
+                    <div class="w-8 h-8 rounded-full bg-emerald-500/20 flex items-center justify-center text-emerald-400 font-bold shrink-0 text-xs">11</div>
+                    <p class="text-sm font-medium">Tips Jenis Workout yang Cocok Saat IF</p>
+                </div>
+                <div class="card-glass p-4 rounded-xl flex items-center gap-4">
+                    <div class="w-8 h-8 rounded-full bg-emerald-500/20 flex items-center justify-center text-emerald-400 font-bold shrink-0 text-xs">12</div>
+                    <p class="text-sm font-medium">IF Buat Wanita & Penyesuaian Siklus Hormon</p>
+                </div>
+                <div class="card-glass p-4 rounded-xl flex items-center gap-4">
+                    <div class="w-8 h-8 rounded-full bg-emerald-500/20 flex items-center justify-center text-emerald-400 font-bold shrink-0 text-xs">13</div>
+                    <p class="text-sm font-medium">Kapan Sebaiknya Stop atau Modifikasi IF?</p>
+                </div>
+                <div class="card-glass p-4 rounded-xl flex items-center gap-4">
+                    <div class="w-8 h-8 rounded-full bg-emerald-500/20 flex items-center justify-center text-emerald-400 font-bold shrink-0 text-xs">14</div>
+                    <p class="text-sm font-medium">Tanda IF Kamu Sudah Berjalan dengan Benar</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="py-16 px-6">
+        <div class="max-w-3xl mx-auto bonus-box p-8 rounded-3xl text-center relative overflow-hidden">
+            <div class="absolute -right-4 -top-4 bg-emerald-500 text-slate-900 font-bold py-1 px-10 rotate-12 text-sm">GRATIS</div>
+            <i class="fas fa-video text-4xl text-emerald-400 mb-4"></i>
+            <h3 class="text-xl font-bold mb-2">BONUS EKSKLUSIF</h3>
+            <h2 class="text-2xl font-black text-white mb-4 italic">60 MENIT RECORDED WEBINAR: INTERMITTENT FASTING HACK</h2>
+            <p class="text-slate-400 text-sm leading-relaxed">
+                Tonton rekaman webinar spesial yang membongkar rahasia mempercepat hasil IF hingga 2x lipat tanpa rasa lapar berlebih.
+            </p>
+        </div>
+    </section>
+
+    <section id="beli" class="py-24 px-6">
+        <div class="max-w-2xl mx-auto text-center">
+            <div class="card-glass p-8 md:p-12 rounded-[2rem] border-emerald-500/20 relative shadow-2xl">
+                <div class="absolute -top-6 left-1/2 -translate-x-1/2 promo-badge text-white px-6 py-2 rounded-full font-bold shadow-xl">
+                    PENAWARAN KHUSUS
+                </div>
+                <h2 class="text-3xl font-bold mb-6">Investasi Sekali, Manfaat Seumur Hidup</h2>
+                
+                <div class="mb-8">
+                    <p class="text-slate-400 line-through text-lg">Rp 99.000</p>
+                    <div class="text-6xl font-black text-emerald-400 mt-2">Rp 29.000</div>
+                    <p class="text-sm mt-4 text-emerald-500 font-semibold bg-emerald-500/10 inline-block px-4 py-1 rounded-lg mb-4">
+                        🎁 Cukup Traktir Kopi Saja
+                    </p>
+                    <div class="block text-red-400 font-bold text-sm animate-pulse">
+                        ⚠️ Harga akan naik setelah kuota 25 full. Sisa kuota: 7 orang lagi!
+                    </div>
+                </div>
+
+                <a href="http://lynk.id/ebookpremium/73lq6mne6122/checkout" target="_blank" class="block w-full bg-emerald-600 hover:bg-emerald-500 text-white font-black py-5 px-10 rounded-2xl transition-all shadow-2xl shadow-emerald-600/40 text-xl tracking-wide uppercase">
+                    Amankan Promo Sekarang
+                </a>
+                
+                <p class="mt-6 text-slate-500 text-xs">
+                    *Akses Ebook & Rekaman Webinar dikirim instan setelah pembayaran.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <footer class="py-10 text-center text-slate-600 text-sm border-t border-slate-900">
+        <p>&copy; 2025 Panduandietsehat. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
